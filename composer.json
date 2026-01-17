@@ -1,6 +1,6 @@
 {
     "name": "speedyspec/speedyspec-wp-package-template",
-    "version": "0.0.0",
+    "version": "0.0.2",
     "description": "SpeedySpec Rewrite of WordPress - Package Template",
     "type": "library",
     "license": "BSD-3-Clause",
